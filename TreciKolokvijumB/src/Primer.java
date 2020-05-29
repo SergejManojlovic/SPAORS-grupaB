@@ -1,7 +1,7 @@
 
 
 public class Primer {
-	
+//konflikt ispravljen	
 	public int oddOrPos(int[] x) {
 		int count = 0;
 
